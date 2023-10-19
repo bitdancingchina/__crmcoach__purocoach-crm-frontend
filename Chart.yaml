@@ -21,4 +21,4 @@ version: 0.1.0
 # incremented each time you make changes to the application. Versions are not expected to
 # follow Semantic Versioning. They should reflect the version the application is using.
 # It is recommended to use it with quotes.
-appVersion: 409a66aa8bcbee6a81b1da54f0decfed13787e74
+appVersion: 2647c1394c8796075d9e74ee8fb3cf5e4043b0b9
